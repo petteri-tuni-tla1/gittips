@@ -25,7 +25,7 @@ $ ln -s tools/tips
 3) Add calling for the script to the end of the .bashrc file of your home directory:
 ```
 $ cd 
-$ echo "sh tools/gittips/tips.sh" >> .basrch
+$ echo "sh tools/gittips/tips.sh" >> .bashrc
 ```
 4) Try out
 ```
